@@ -1,0 +1,20 @@
+header{
+    background:linear-gradient(gray,rgb(41, 40, 40)) ;
+    padding: 30px;
+    text-align: center;
+}
+
+div{
+    background:linear-gradient(white,grey,white,grey) ;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid rgb(0, 0, 0);
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+footer{
+    background:linear-gradient(rgb(37, 37, 37),grey) ;
+    padding: 10px;
+    text-align: center;
+}
